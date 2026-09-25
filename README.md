@@ -7,7 +7,7 @@ An executive-grade **Power BI Dashboard** designed to deliver end-to-end visibil
 ## 📸 Dashboard Preview
 
 ![Procurement Dashboard](https://raw.githubusercontent.com/your-username/your-repository-name/main/path-to-your-image.jpeg)
-*(Note: Replace the link above with your uploaded image URL)*
+
 
 ---
 
